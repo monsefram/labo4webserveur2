@@ -1,0 +1,18 @@
+current directory: /home/etd/restaurantV8/restaurant/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/local/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/etd/restaurantV8/restaurant/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251113-5314-me495f sitelibdir\=./.gem.20251113-5314-me495f clean
+
+current directory: /home/etd/restaurantV8/restaurant/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251113-5314-me495f sitelibdir\=./.gem.20251113-5314-me495f
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/etd/restaurantV8/restaurant/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251113-5314-me495f sitelibdir\=./.gem.20251113-5314-me495f install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20251113-5314-me495f/skiptrace/internal
+
+current directory: /home/etd/restaurantV8/restaurant/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20251113-5314-me495f sitelibdir\=./.gem.20251113-5314-me495f clean
